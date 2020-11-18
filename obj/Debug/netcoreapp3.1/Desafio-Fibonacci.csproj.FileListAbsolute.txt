@@ -1,0 +1,13 @@
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\bin\Debug\netcoreapp3.1\Desafio-Fibonacci.exe
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\bin\Debug\netcoreapp3.1\Desafio-Fibonacci.deps.json
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\bin\Debug\netcoreapp3.1\Desafio-Fibonacci.runtimeconfig.json
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\bin\Debug\netcoreapp3.1\Desafio-Fibonacci.runtimeconfig.dev.json
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\bin\Debug\netcoreapp3.1\Desafio-Fibonacci.dll
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\bin\Debug\netcoreapp3.1\Desafio-Fibonacci.pdb
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.csprojAssemblyReference.cache
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.AssemblyInfo.cs
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.dll
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.pdb
+C:\Users\victo_000\Desktop\HTML\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.genruntimeconfig.cache
